@@ -1,0 +1,69 @@
+import image_0 from '../images/Scene-4/Sc_Four_00000.png';
+import image_1 from '../images/Scene-4/Sc_Four_00001.png';
+import image_2 from '../images/Scene-4/Sc_Four_00002.png';
+import image_3 from '../images/Scene-4/Sc_Four_00003.png';
+import image_4 from '../images/Scene-4/Sc_Four_00004.png';
+import image_5 from '../images/Scene-4/Sc_Four_00005.png';
+import image_6 from '../images/Scene-4/Sc_Four_00006.png';
+import image_7 from '../images/Scene-4/Sc_Four_00007.png';
+import image_8 from '../images/Scene-4/Sc_Four_00008.png';
+import image_9 from '../images/Scene-4/Sc_Four_00009.png';
+import image_10 from '../images/Scene-4/Sc_Four_00010.png';
+import image_11 from '../images/Scene-4/Sc_Four_00011.png';
+import image_12 from '../images/Scene-4/Sc_Four_00012.png';
+import image_13 from '../images/Scene-4/Sc_Four_00013.png';
+import image_14 from '../images/Scene-4/Sc_Four_00014.png';
+import image_15 from '../images/Scene-4/Sc_Four_00015.png';
+import image_16 from '../images/Scene-4/Sc_Four_00016.png';
+import image_17 from '../images/Scene-4/Sc_Four_00017.png';
+import image_18 from '../images/Scene-4/Sc_Four_00018.png';
+import image_19 from '../images/Scene-4/Sc_Four_00019.png';
+import image_20 from '../images/Scene-4/Sc_Four_00020.png';
+import image_21 from '../images/Scene-4/Sc_Four_00021.png';
+import image_22 from '../images/Scene-4/Sc_Four_00022.png';
+import image_23 from '../images/Scene-4/Sc_Four_00023.png';
+import image_24 from '../images/Scene-4/Sc_Four_00024.png';
+import image_25 from '../images/Scene-4/Sc_Four_00025.png';
+import image_26 from '../images/Scene-4/Sc_Four_00026.png';
+import image_27 from '../images/Scene-4/Sc_Four_00027.png';
+import image_28 from '../images/Scene-4/Sc_Four_00028.png';
+import image_29 from '../images/Scene-4/Sc_Four_00029.png';
+import image_30 from '../images/Scene-4/Sc_Four_00030.png';
+import image_31 from '../images/Scene-4/Sc_Four_00031.png';
+import image_32 from '../images/Scene-4/Sc_Four_00032.png';
+
+export const scenceFourList = [
+  { imgUrl: image_0 },
+  { imgUrl: image_1 },
+  { imgUrl: image_2 },
+  { imgUrl: image_3 },
+  { imgUrl: image_4 },
+  { imgUrl: image_5 },
+  { imgUrl: image_6 },
+  { imgUrl: image_7 },
+  { imgUrl: image_8 },
+  { imgUrl: image_9 },
+  { imgUrl: image_10 },
+  { imgUrl: image_11 },
+  { imgUrl: image_12 },
+  { imgUrl: image_13 },
+  { imgUrl: image_14 },
+  { imgUrl: image_15 },
+  { imgUrl: image_16 },
+  { imgUrl: image_17 },
+  { imgUrl: image_18 },
+  { imgUrl: image_19 },
+  { imgUrl: image_20 },
+  { imgUrl: image_21 },
+  { imgUrl: image_22 },
+  { imgUrl: image_23 },
+  { imgUrl: image_24 },
+  { imgUrl: image_25 },
+  { imgUrl: image_26 },
+  { imgUrl: image_27 },
+  { imgUrl: image_28 },
+  { imgUrl: image_29 },
+  { imgUrl: image_30 },
+  { imgUrl: image_31 },
+  { imgUrl: image_32 },
+]

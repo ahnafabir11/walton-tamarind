@@ -1,0 +1,45 @@
+import image_1 from '../images/Scene-2/Sc_Two_00001.png';
+import image_2 from '../images/Scene-2/Sc_Two_00002.png';
+import image_3 from '../images/Scene-2/Sc_Two_00003.png';
+import image_4 from '../images/Scene-2/Sc_Two_00004.png';
+import image_5 from '../images/Scene-2/Sc_Two_00005.png';
+import image_6 from '../images/Scene-2/Sc_Two_00006.png';
+import image_7 from '../images/Scene-2/Sc_Two_00007.png';
+import image_8 from '../images/Scene-2/Sc_Two_00008.png';
+import image_9 from '../images/Scene-2/Sc_Two_00009.png';
+import image_10 from '../images/Scene-2/Sc_Two_00010.png';
+import image_11 from '../images/Scene-2/Sc_Two_00011.png';
+import image_12 from '../images/Scene-2/Sc_Two_00012.png';
+import image_13 from '../images/Scene-2/Sc_Two_00013.png';
+import image_14 from '../images/Scene-2/Sc_Two_00014.png';
+import image_15 from '../images/Scene-2/Sc_Two_00015.png';
+import image_16 from '../images/Scene-2/Sc_Two_00016.png';
+import image_17 from '../images/Scene-2/Sc_Two_00017.png';
+import image_18 from '../images/Scene-2/Sc_Two_00018.png';
+import image_19 from '../images/Scene-2/Sc_Two_00019.png';
+import image_20 from '../images/Scene-2/Sc_Two_00020.png';
+import image_21 from '../images/Scene-2/Sc_Two_00021.png';
+
+export const scenceTwoList = [
+  { imgUrl: image_1 },
+  { imgUrl: image_2 },
+  { imgUrl: image_3 },
+  { imgUrl: image_4 },
+  { imgUrl: image_5 },
+  { imgUrl: image_6 },
+  { imgUrl: image_7 },
+  { imgUrl: image_8 },
+  { imgUrl: image_9 },
+  { imgUrl: image_10 },
+  { imgUrl: image_11 },
+  { imgUrl: image_12 },
+  { imgUrl: image_13 },
+  { imgUrl: image_14 },
+  { imgUrl: image_15 },
+  { imgUrl: image_16 },
+  { imgUrl: image_17 },
+  { imgUrl: image_18 },
+  { imgUrl: image_19 },
+  { imgUrl: image_20 },
+  { imgUrl: image_21 },
+]
